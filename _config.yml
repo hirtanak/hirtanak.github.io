@@ -1,8 +1,7 @@
-
 title: hirtanak repository
-description: "＠hirtanak のレポジトリです。クラウド、コンテナ、R&Dについて情報掲載しています。 ＠hirtanak repository for cloud, container, R&D, and so on." 
+description: "＠hirtanak のレポジトリです。クラウド、コンテナ、R&Dについて情報掲載しています。" 
 google_analytics: UA-110297614-2
-url : https://hirtanak.github.io/
+url: https://hirtanak.github.io/
 
 # Build settings
 theme: jekyll-theme-cayman
