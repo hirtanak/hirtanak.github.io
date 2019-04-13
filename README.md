@@ -15,3 +15,5 @@ layout: default
 [Link to LinkedIn](https://www.linkedin.com/in/hiroshi-tanaka/)
 
 [Github Repository](https://github.com/hirtanak/hirtanak.github.io)
+
+[Web Page](https://hirtanak.github.io/)
