@@ -12,5 +12,3 @@ layout: default
 
 [Link to LinkedIn](https://www.linkedin.com/in/hiroshi-tanaka/)
 
-***
-Copyright Hiroshi Tanaka, hirtanak@gmail.com, @hirtanak . All rights reserved.
