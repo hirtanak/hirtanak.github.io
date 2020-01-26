@@ -7,7 +7,7 @@
 
  - [OSS PBS/H16r用デフォルトテンプレート v1.0.0 2019/4/30](https://github.com/hirtanak/osspbsdefault/releases/tag/v1.0.0)
 
-[Azure CycleCloudハンズオンドキュメント](https://github.com/hirtanak/hirtanak.github.io/raw/master/docs/20190304-AzureCycloeCloudHOLSeminar%E6%89%8B%E9%A0%86v11.docx)
+[Azure CycleCloudハンズオンドキュメント](https://github.com/hirtanak/hirtanak.github.io/raw/master/docs/20190304-AzureCycloeCloudHOLSeminar%E6%89%8B%E9%A0%86v12.docx)
 
 # Resources
 
