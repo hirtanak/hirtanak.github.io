@@ -9,6 +9,10 @@
 
 [Azure CycleCloudハンズオンドキュメントv12](https://github.com/hirtanak/hirtanak.github.io/raw/master/docs/20200126-AzureCycloeCloudHOLSeminar%E6%89%8B%E9%A0%86v12.docx)
 
+[MSC SCRYU/Tetra, scFLOW, STREAMテンプレート](https://github.com/hirtanak/cyclecloud-Cradle)
+
+[Siemens STAR-CCM+テンプレート](https://github.com/hirtanak/cyclecloud-STAR-CCMplus)
+
 [WSLのPBSクライアントからダイレクトにジョブサブミット(ビデオ)](https://www.youtube.com/watch?v=TOPzb3YkeH4)
 
 # Resources
