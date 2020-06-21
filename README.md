@@ -15,6 +15,10 @@
 
 [WSLのPBSクライアントからダイレクトにジョブサブミット(ビデオ)](https://www.youtube.com/watch?v=TOPzb3YkeH4)
 
+[WSLのPBSクライアントからダイレクトにジョブサブミットする方法(英語)](https://medium.com/@hirtanak/direct-submission-wsl-pbs-client-to-azure-cyclecloud-cluster-842a37eca2b4)
+
+[WSLのSlurmクライアントからダイレクトにジョブサブミットする方法(英語)]https://medium.com/@hirtanak/slurm-job-submission-on-wsl-client-to-azure-cyclecloud-slurm-cluster-7f6e3d709947)
+
 # Resources
 
 [Link to LinkedIn](https://www.linkedin.com/in/hiroshi-tanaka/)
