@@ -26,3 +26,5 @@
 [Github Repository](https://github.com/hirtanak/hirtanak.github.io)
 
 [Web Page](https://hirtanak.github.io/)
+
+[Book](http://www.amazon.co.jp/dp/4844337114)
